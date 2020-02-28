@@ -1,0 +1,10 @@
+C:\Users\Kai Graf\Dropbox\LeagueofLegends\CDTrackerV04\CDTrackerV02\obj\Debug\CDTrackerV02.CDTrackerMain.resources
+C:\Users\Kai Graf\Dropbox\LeagueofLegends\CDTrackerV04\CDTrackerV02\obj\Debug\CDTrackerV02.Ingameoverlay.resources
+C:\Users\Kai Graf\Dropbox\LeagueofLegends\CDTrackerV04\CDTrackerV02\obj\Debug\CDTrackerV04.csproj.GenerateResource.cache
+C:\Users\Kai Graf\Dropbox\LeagueofLegends\CDTrackerV04\CDTrackerV02\obj\Debug\CDTrackerV04.csproj.CoreCompileInputs.cache
+C:\Users\Kai Graf\Dropbox\LeagueofLegends\CDTrackerV04\CDTrackerV02\bin\Debug\CDTrackerV04.exe.config
+C:\Users\Kai Graf\Dropbox\LeagueofLegends\CDTrackerV04\CDTrackerV02\bin\Debug\CDTrackerV04.exe
+C:\Users\Kai Graf\Dropbox\LeagueofLegends\CDTrackerV04\CDTrackerV02\bin\Debug\CDTrackerV04.pdb
+C:\Users\Kai Graf\Dropbox\LeagueofLegends\CDTrackerV04\CDTrackerV02\obj\Debug\CDTrackerV02.Properties.Resources.resources
+C:\Users\Kai Graf\Dropbox\LeagueofLegends\CDTrackerV04\CDTrackerV02\obj\Debug\CDTrackerV04.exe
+C:\Users\Kai Graf\Dropbox\LeagueofLegends\CDTrackerV04\CDTrackerV02\obj\Debug\CDTrackerV04.pdb
